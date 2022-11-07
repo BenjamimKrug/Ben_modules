@@ -1,0 +1,3 @@
+[console_scripts]
+kikit = kikit.ui:cli
+kikit-info = kikit.info:cli
