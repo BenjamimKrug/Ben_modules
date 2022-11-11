@@ -217,4 +217,9 @@
   (pad "CN10_36" thru_hole circle (at 31.75 33.67) (size 1.53 1.53) (drill 1.02) (layers *.Cu *.Mask) (tstamp 98596334-6860-447a-9398-0250bc9abac9))
   (pad "CN10_37" thru_hole circle (at 29.21 36.21) (size 1.53 1.53) (drill 1.02) (layers *.Cu *.Mask) (tstamp acf45e0b-6eef-4e1c-ab2a-5dfc69470971))
   (pad "CN10_38" thru_hole circle (at 31.75 36.21) (size 1.53 1.53) (drill 1.02) (layers *.Cu *.Mask) (tstamp 5fe1c8b4-9687-446c-b4ac-b26a32fb1258))
+  (model "${KICAD_3DMODEL_GENERAL_DIR}/NUCLEOF401.STEP"
+    (offset (xyz 8.9 -38.7 10.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
