@@ -263,4 +263,9 @@
   (pad "J2.13" thru_hole oval (at -12.7 7.62) (size 1.5 3) (drill 1) (layers *.Cu *.Mask) (tstamp 7ded041e-a2d1-4dac-bb8c-ed7d3ec54323))
   (pad "J2.14" thru_hole oval (at -15.24 7.62) (size 1.5 3) (drill 1) (layers *.Cu *.Mask) (tstamp 749695aa-8750-4fb0-ab11-40d9615fcb21))
   (pad "J2.15" thru_hole oval (at -17.78 7.62) (size 1.5 3) (drill 1) (layers *.Cu *.Mask) (tstamp 78d3557c-086e-4735-bc01-70bb52479186))
+  (model "${KICAD_3DMODEL_GENERAL_DIR}/Arduino Nano-STEP.STEP"
+    (offset (xyz 0 0 8.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

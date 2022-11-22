@@ -288,4 +288,9 @@
   (pad "J4.4" thru_hole circle (at 17.78 0 90) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp d9b69097-41b9-48e4-bae6-fb52af2d5a2d))
   (pad "J4.5" thru_hole circle (at 20.32 -2.54 90) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp 5a561670-053d-49fa-a05c-82d9d50f8cd2))
   (pad "J4.6" thru_hole circle (at 17.78 -2.54 90) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp 0619d852-39ac-4e27-b403-ba6da0a548a6))
+  (model "${KICAD_3DMODEL_GENERAL_DIR}/Arduino Nano-STEP.STEP"
+    (offset (xyz 0 0 8.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

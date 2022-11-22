@@ -76,4 +76,9 @@
   (pad "SENSOR_VN" smd rect (at 0 -12.9286) (size 3 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp de3c7cb4-a6ca-4324-8778-1d487211cbe6))
   (pad "SENSOR_VP" smd rect (at 0 -14.1986) (size 3 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7bbb2628-1bf4-4669-99b7-4ed6b5ec7fe3))
   (pad "TX" smd rect (at 17.99844 -14.1986) (size 3 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7988dcbf-8e8d-4b36-a3fd-c9d60eba88a7))
+  (model "${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/ESP32-WROOM-32.wrl"
+    (offset (xyz 9 9.8 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

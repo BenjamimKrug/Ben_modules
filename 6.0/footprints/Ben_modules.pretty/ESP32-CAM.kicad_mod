@@ -41,4 +41,9 @@
   (pad "14" thru_hole oval (at 22.86 -5.08) (size 3 1.5) (drill 1) (layers *.Cu *.Mask) (tstamp 5a67a229-d6cd-401f-af88-8ec7cbab60f9))
   (pad "15" thru_hole oval (at 22.86 -2.54) (size 3 1.5) (drill 1) (layers *.Cu *.Mask) (tstamp 1bc8eaad-a82c-40e7-9b8c-8a21d93e9246))
   (pad "16" thru_hole oval (at 22.86 0) (size 3 1.5) (drill 1) (layers *.Cu *.Mask) (tstamp 9bb40488-902c-4266-a969-19c2d231c1ec))
+  (model "${KICAD_3DMODEL_GENERAL_DIR}/ESP32-CAM-AI_Thinker.step"
+    (offset (xyz 25.1 22.5 9.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 90))
+  )
 )

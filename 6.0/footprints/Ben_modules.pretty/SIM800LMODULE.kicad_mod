@@ -72,4 +72,19 @@
   (pad "SPK-" thru_hole oval (at 10.9982 8.99922) (size 3 1.5) (drill 1) (layers *.Cu *.Mask) (tstamp 6cec388e-fcb4-4054-8ae6-012f7e196f49))
   (pad "TX" thru_hole oval (at -10.9982 3.99796) (size 3 1.5) (drill 1) (layers *.Cu *.Mask) (tstamp 9bcb741b-7e70-4463-9918-197d11e354ad))
   (pad "VCC" thru_hole oval (at -10.9982 -3.49758) (size 3 1.5) (drill 1) (layers *.Cu *.Mask) (tstamp f4f4ceec-18b5-4296-b894-de2263d75e3f))
+  (model "${KICAD_3DMODEL_GENERAL_DIR}/SIM800L.step"
+    (offset (xyz 0 -0.7 9.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x06_P2.54mm_Vertical.wrl"
+    (offset (xyz -11 6 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x06_P2.54mm_Vertical.wrl"
+    (offset (xyz 11 3.5 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

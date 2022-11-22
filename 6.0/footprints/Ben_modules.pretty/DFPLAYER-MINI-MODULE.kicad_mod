@@ -134,4 +134,9 @@
   (pad "14" thru_hole oval (at -3.81 -8.89) (size 1.5 3) (drill 1) (layers *.Cu *.Mask) (tstamp d3a18f01-9754-412d-a798-b91fe5c9451b))
   (pad "15" thru_hole oval (at -6.35 -8.89) (size 1.5 3) (drill 1) (layers *.Cu *.Mask) (tstamp 42500a0d-c77c-4f97-946b-64bfa20ec21a))
   (pad "16" thru_hole oval (at -8.89 -8.89) (size 1.5 3) (drill 1) (layers *.Cu *.Mask) (tstamp 45a4ec59-4066-40f3-964c-68a2ec2cc84f))
+  (model "${KICAD_3DMODEL_GENERAL_DIR}/DFPlayer Mini Assem v1.step"
+    (offset (xyz 0 0 9))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 -90))
+  )
 )

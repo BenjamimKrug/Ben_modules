@@ -19,8 +19,8 @@
   (fp_line (start -3.69824 13.19784) (end -3.69824 10.44956) (layer "F.SilkS") (width 0.127) (tstamp f606e516-3535-4499-b293-043d4b0a6a03))
   (fp_circle (center 0 0) (end 0 -10.50036) (layer "F.SilkS") (width 0.127) (fill none) (tstamp 5c18c091-195d-4997-b89f-e1d8ebc1a90d))
   (fp_circle (center 0 0) (end 0 -11.05408) (layer "F.SilkS") (width 0.127) (fill none) (tstamp d82ac7eb-7ef8-4ec2-853e-2cced18b95f8))
-  (pad "GND" thru_hole rect (at 0 -10.49782) (size 1.30556 1.30556) (drill 0.79756) (layers *.Cu *.Paste *.Mask) (tstamp 6583a3a7-ed24-4314-81b1-eaecc6ad933a))
-  (pad "VCC" thru_hole rect (at 0 10.49782) (size 1.30556 1.30556) (drill 0.79756) (layers *.Cu *.Paste *.Mask) (tstamp 7dc0e6a2-a50c-4ffd-b054-93a6930f30ef))
+  (pad "1" thru_hole rect (at 0 10.49782) (size 2 2) (drill 1) (layers *.Cu *.Paste *.Mask) (tstamp 7dc0e6a2-a50c-4ffd-b054-93a6930f30ef))
+  (pad "2" thru_hole circle (at 0 -10.49782) (size 2 2) (drill 1) (layers *.Cu *.Paste *.Mask) (tstamp 6583a3a7-ed24-4314-81b1-eaecc6ad933a))
   (model "${KICAD_3DMODEL_GENERAL_DIR}/KLS5-CR2032-01 battery holder.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
