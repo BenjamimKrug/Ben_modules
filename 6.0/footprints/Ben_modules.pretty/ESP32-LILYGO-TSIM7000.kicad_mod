@@ -203,8 +203,18 @@
   (pad "VBAT" thru_hole oval (at 21.57984 -15.24) (size 1.5 3) (drill 1) (layers *.Cu *.Mask) (tstamp e1b41b27-839b-4283-998a-ad5a400f1365))
   (pad "VIN_5V" thru_hole oval (at 21.57984 15.24) (size 1.5 3) (drill 1) (layers *.Cu *.Mask) (tstamp db70b3b7-406f-4241-919b-6fa0f770c2fe))
   (model "C:/Users/Benjamim/Documents/KiCad/6.0/3dmodels/TTGO_SIM7000GV1.STEP"
-    (offset (xyz 25 28.9 119))
+    (offset (xyz 25 28.9 117.2))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 0 180))
+  )
+  (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x16_P2.54mm_Vertical.wrl"
+    (offset (xyz -16.5 15.3 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 -90))
+  )
+  (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x16_P2.54mm_Vertical.wrl"
+    (offset (xyz -16.5 -15.3 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 -90))
   )
 )

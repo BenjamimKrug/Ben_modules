@@ -24,8 +24,8 @@
   (fp_line (start -12.08 -4.85) (end 12.08 -4.85) (layer "F.Fab") (width 0.127) (tstamp 62c88343-c431-4761-a124-b27c221cb168))
   (fp_line (start -12.08 4.85) (end -12.08 -4.85) (layer "F.Fab") (width 0.127) (tstamp 8ddb7f44-267e-4c20-b4d9-2338a3949434))
   (fp_line (start 12.08 -4.85) (end 12.08 4.85) (layer "F.Fab") (width 0.127) (tstamp ede1e2d6-2464-4821-8274-d69d709f68d1))
-  (pad "1" thru_hole rect (at -10.92 0) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp 98f0981d-0c2b-4e89-8d44-a832eb4d12f1))
-  (pad "2" thru_hole circle (at 10.92 0) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp b5e006f9-4458-4530-97c1-af12a19eeb64))
+  (pad "1" thru_hole rect (at -10.92 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask) (tstamp 98f0981d-0c2b-4e89-8d44-a832eb4d12f1))
+  (pad "2" thru_hole oval (at 10.92 0) (size 3 3.5) (drill 1.5) (layers *.Cu *.Mask) (tstamp b5e006f9-4458-4530-97c1-af12a19eeb64))
   (model "${KICAD_3DMODEL_GENERAL_DIR}/fuse 4527.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
