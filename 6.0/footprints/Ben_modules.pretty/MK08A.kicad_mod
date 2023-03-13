@@ -83,20 +83,6 @@
   (pad "VDD" smd rect (at -0.1 15.7) (size 1.8 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b3c9ba12-2375-4633-abe2-63b706462953))
   (pad "VDD" smd circle (at 4.19 15.41) (size 1 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f6a56449-f504-4c91-938b-b13cd0f4c800))
   (pad "VDDH" smd rect (at 2 15.1) (size 1 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 97bcacb2-1c7e-4e7b-8365-87fd33d2de7a))
-  (zone (net 0) (net_name "") (layers *.Cu) (tstamp dcd01155-ac19-4cf9-a8b2-bbef831f0d93) (hatch edge 0.508)
-    (connect_pads (clearance 0))
-    (min_thickness 0.254)
-    (keepout (tracks not_allowed) (vias not_allowed) (pads not_allowed) (copperpour allowed) (footprints allowed))
-    (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
-    (polygon
-      (pts
-        (xy 18.9 5.4)
-        (xy -5 5.4)
-        (xy -5 -0.5)
-        (xy 18.9 -0.5)
-      )
-    )
-  )
   (model "${KICAD_3DMODEL_GENERAL_DIR}/moko_mk08a_nRF52840.step"
     (offset (xyz 7 -10.5 0))
     (scale (xyz 1 1 1))
