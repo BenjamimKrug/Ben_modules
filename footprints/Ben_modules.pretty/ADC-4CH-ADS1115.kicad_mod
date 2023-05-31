@@ -193,7 +193,7 @@
   (pad "8" thru_hole oval (at -6.35 6.35) (size 3 1.5) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 8ccaaf79-b126-4908-ac24-373ba23451b1))
   (pad "9" thru_hole oval (at -6.35 8.89) (size 3 1.5) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 6343aecd-5317-4ec7-af86-a7920c1c5418))
   (pad "10" thru_hole oval (at -6.35 11.43) (size 3 1.5) (drill 1) (layers "*.Cu" "*.Mask") (tstamp f211feb5-9e8d-4eee-93b1-24dbc067de53))
-  (model "${KICAD_3DMODEL_GENERAL_DIR}/16Bit I2C ADC+PGA - ADS1115.stp"
+  (model "${BEN_MODULES}/3dmodels/16Bit I2C ADC+PGA - ADS1115.stp"
     (offset (xyz 0 0 9.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))

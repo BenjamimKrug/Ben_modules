@@ -40,7 +40,7 @@
   (pad "SLEEP" thru_hole oval (at 7.62 0 90) (size 3 1.5) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 2a78c73e-ef4b-4d72-96b9-e1d6cfb57be3))
   (pad "TX" thru_hole oval (at -2.54 0 90) (size 3 1.5) (drill 1) (layers "*.Cu" "*.Mask") (tstamp f4f4ceec-18b5-4296-b894-de2263d75e3f))
   (pad "VCC" thru_hole oval (at 2.54 0 90) (size 3 1.5) (drill 1) (layers "*.Cu" "*.Mask") (tstamp da537183-fe68-4583-a846-496eec9629ce))
-  (model "${KICAD_3DMODEL_GENERAL_DIR}/kicad_SIM7000_3D.step"
+  (model "${BEN_MODULES}/3dmodels/kicad_SIM7000_3D.step"
     (offset (xyz 18.5 -2.5 9.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))
