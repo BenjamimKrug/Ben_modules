@@ -6834,7 +6834,7 @@
 			)
 		)
 		(symbol "CM1231-02SO_1_1"
-			(pin power_in line
+			(pin bidirectional line
 				(at -10.16 2.54 0)
 				(length 2.54)
 				(name "AOUT"
@@ -6870,7 +6870,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -10.16 -2.54 0)
 				(length 2.54)
 				(name "AIN"
@@ -6888,7 +6888,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 10.16 -2.54 180)
 				(length 2.54)
 				(name "BIN"
@@ -6906,7 +6906,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at 10.16 0 180)
 				(length 2.54)
 				(name "VP"
@@ -6924,7 +6924,7 @@
 					)
 				)
 			)
-			(pin power_out line
+			(pin bidirectional line
 				(at 10.16 2.54 180)
 				(length 2.54)
 				(name "BOUT"
